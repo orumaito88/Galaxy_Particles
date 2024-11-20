@@ -8,7 +8,7 @@ injectSpeedInsights();
  * Base
  */
 // Debug
-const gui = new GUI( {width: 400}) //width is for the lenght of the gui
+// const gui = new GUI( {width: 400}) //width is for the lenght of the gui
 
 // Canvas
 const canvas = document.querySelector('canvas.webgl')
